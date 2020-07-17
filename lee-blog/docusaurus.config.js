@@ -1,7 +1,7 @@
 module.exports = {
   title: '李锦书的个人博客',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://avatars0.githubusercontent.com/u/54397662?s=460&u=30dd9b2b016bc139836191e5329e53b038ce834c&v=4',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
@@ -11,7 +11,7 @@ module.exports = {
       title: '李锦书的个人博客',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'https://avatars0.githubusercontent.com/u/54397662?s=460&u=30dd9b2b016bc139836191e5329e53b038ce834c&v=4',
       },
       links: [
         // {
